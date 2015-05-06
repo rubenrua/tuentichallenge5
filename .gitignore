@@ -1,0 +1,13 @@
+# SCALA
+*.class
+*.log
+
+# C
+*.o
+*.out
+
+# PYTHON
+*.pyc
+
+# EMACS
+*~
